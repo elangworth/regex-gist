@@ -1,4 +1,4 @@
-#Learn how to Validate Password Criteria Using Regex
+# Learn how to Validate Password Criteria Using Regex
 
 ### Introduction
 
